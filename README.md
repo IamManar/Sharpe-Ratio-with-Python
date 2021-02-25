@@ -12,3 +12,6 @@ ___
 - notebook.ipynb
 ##### Additional Files
 - project_image.png
+___
+# Credits
+- [DataCamp](https://www.datacamp.com/)
