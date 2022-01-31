@@ -1,4 +1,4 @@
-# Amazon & Facebook's Sharp Ratio with Python
+# Amazon & Facebook's Sharpe Ratio with Python
 ___
 ### Project Overview
 ##### Sharpe Ratio compares the expected returns for two investment opportunities and calculates the additional return per unit of risk an investor could obtain by choosing one over the other. This project is about calculating the sharp ration for the stocks of the two tech giants Facebook and Amazon.
